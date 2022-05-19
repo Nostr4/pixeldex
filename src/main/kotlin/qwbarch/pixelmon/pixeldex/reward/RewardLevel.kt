@@ -4,7 +4,7 @@ enum class RewardLevel(val value: Byte) {
 
     ZERO(0),
     TEN(10),
-    TWENTY(20),
+    TWENTY(14),
     THIRTY(30),
     FORTY(40),
     FIFTY(50),
